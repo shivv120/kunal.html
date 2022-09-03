@@ -1,0 +1,29 @@
+<html>
+<body bgcolor = "yellow" >
+<h1 colour="white"> HAPPY BIRTHDAY KUNAL </h1>
+<address>Aka KUNNU</address>
+<pre>#silentkiller</pre>
+<marquee behavior = "alternate" bgcolor ="red" >Happy</marquee>
+<marquee behavior = "alternate" bgcolor ="orange"> Birthday </marquee>
+<marquee behavior = "alternate" bgcolor ="red"> KUNNIYA </marquee>
+<img src="C:\Users\Shivashankar\Desktop\Shiva\code\kunal.png" width ="270" height="200">
+<a href ="https://youtu.be/U-bpHTapG-U"><img src = "C:\Users\Shivashankar\Desktop\Shiva\code\SURP.webp" width="100" height="100" align="right"></a><br>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/3.html">TRIGGER IT </a><br><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/2.html"> KAI KARTOSS </a><BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/1.html">OPEN BIRO</a>
+<BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/4.html">KHOLNA BRO</a>
+<BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/5.html">DABA DE</a>
+<BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/6.html">PRESS HARD</a>
+<BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/7.html">PRESS HALKA</a>
+<BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/8.html">BHAGHUN GHYA</a>
+<BR><hr>
+<a href="file:///C:/Users/Shivashankar/Desktop/Shiva/code/New%20folder/9.html">LE LE</a>
+<h1 align="center"> ONCE AGAIN HAPPY BIRTHDAY KUNAL!!! </h1>
+don't forget to click on the surprise!!
+</body>
+</html>
